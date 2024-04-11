@@ -1,4 +1,4 @@
-module github.com/w-gao/gowdl
+module github.com/shuangkun/gowdl
 
 go 1.18
 

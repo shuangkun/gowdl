@@ -7,8 +7,8 @@ import (
 	"github.com/antlr/antlr4/runtime/Go/antlr/v4"
 	"github.com/stretchr/testify/suite"
 
-	"github.com/w-gao/gowdl/internal/domain"
-	"github.com/w-gao/gowdl/parsers/v1_0"
+	"github.com/shuangkun/gowdl/internal/domain"
+	"github.com/shuangkun/gowdl/parsers/v1_0"
 )
 
 type VisitorTestSuite struct {

@@ -18,7 +18,7 @@ A Workflow Description Language (WDL) parser in Go.
 To construct an ANTLR4 WDL parser, use:
 
 ```go
-import "github.com/w-gao/gowdl/parsers"
+import "github.com/shuangkun/gowdl/parsers"
 
 func main() {
     // parser for version 1.0
@@ -134,7 +134,7 @@ If you want to contribute to the project or try it out locally, you can install
 To install `gowdl` from source, first clone this repo:
 
 ```
-https://github.com/w-gao/gowdl.git
+https://github.com/shuangkun/gowdl.git
 ```
 
 Then, generate the necessary parsers:

@@ -2,8 +2,8 @@ package parsers
 
 import (
 	"github.com/antlr/antlr4/runtime/Go/antlr/v4"
-	"github.com/w-gao/gowdl/parsers/v1_0"
-	"github.com/w-gao/gowdl/parsers/v1_1"
+	"github.com/shuangkun/gowdl/parsers/v1_0"
+	"github.com/shuangkun/gowdl/parsers/v1_1"
 )
 
 func NewWdlV1_0Parser(data string) *v1_0.WdlV1Parser {

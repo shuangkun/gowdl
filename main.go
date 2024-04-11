@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/w-gao/gowdl/internal/cmd"
+	"github.com/shuangkun/gowdl/internal/cmd"
 )
 
 func main() {

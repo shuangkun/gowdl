@@ -3,8 +3,8 @@ package internal
 import (
 	"fmt"
 
-	"github.com/w-gao/gowdl/internal/domain"
-	"github.com/w-gao/gowdl/parsers"
+	"github.com/shuangkun/gowdl/internal/domain"
+	"github.com/shuangkun/gowdl/parsers"
 )
 
 type WdlBuilder struct {

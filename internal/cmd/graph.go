@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"fmt"
 
+	"github.com/shuangkun/gowdl/internal"
+	"github.com/shuangkun/gowdl/internal/domain"
 	"github.com/spf13/cobra"
-	"github.com/w-gao/gowdl/internal"
-	"github.com/w-gao/gowdl/internal/domain"
 )
 
 func init() {

@@ -8,8 +8,8 @@ import (
 	"strings"
 
 	"github.com/antlr/antlr4/runtime/Go/antlr/v4"
-	"github.com/w-gao/gowdl/internal/domain"
-	"github.com/w-gao/gowdl/internal/impl"
+	"github.com/shuangkun/gowdl/internal/domain"
+	"github.com/shuangkun/gowdl/internal/impl"
 )
 
 type IVisitorReporter interface {
